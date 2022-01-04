@@ -1,0 +1,55 @@
+name: hundekotplatzbase
+version: 1.0.0
+main: eu.hundekotplatz.base.main.Main
+author: BinGutDeutsch
+description: hundekotplatzbase
+
+commands:
+   globalmute:
+      description: activate/deactivate globalmute
+   spy:
+      description: activate/deactivate spy
+   bc:
+      description: broadcast
+   fly:
+      description: activate/deactivate flymode
+   gm:
+      description: change Gamemode
+   dc:
+      description: Discord invitelink
+   ts:
+      description: TeamSpeak 
+   v:
+      description: activate/deactivate vanish
+   build:
+      description: activate/deactivate buildmode
+   spawn:
+      description: teleport to spawn
+   setspawn:
+      description: set spawn
+   weiseliste:
+      description: activate/deactivate whitelist
+   pvp:
+      description: activate/deactivate pvp
+   spawnmob:
+      description: spawn mob
+   togglespawning:
+      decription: toggle dog spawning
+   kot:
+      description: shows collected kothaufen
+   togglekoten:
+      description: toggles koten on sneak
+   pay:
+      description: transfer kothaufen
+   tutorial:
+      description: tutorial
+   shop:
+      description: shop
+   top:
+      description: top
+   hologram:
+      description: hologram
+   rank:
+      description: ranks
+   kotbeutel:
+      description: kotbeutel
